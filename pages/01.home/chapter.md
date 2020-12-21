@@ -1,7 +1,15 @@
 ---
-title: Home
+title: 'Tutorial Template'
+taxonomy:
+    category:
+        - docs
 body_classes: 'title-center title-h1h2'
 menu: Introduction
+subtitle: 'Instructions and Samples'
+intro:
+    level: beginner
+    updated: '2020-12-21'
+    created: 'Theo Acker'
 ---
 
 # Say Hello to Grav!
