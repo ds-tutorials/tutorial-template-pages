@@ -12,8 +12,6 @@ intro:
     created: 'Theo Acker'
 ---
 
-# Introduction
-
 Welcome to the Digital Scholarship tutorial template!
 
 These pages will walk you through installation (if your initial website is not yet set up), as well as everything you need to know to create and maintain a tutorial. Identical copies of these pages can be found in your initial website set up and on the [template demo website](https://www.ds-tutorials.oucreate.com/tutorial-template/). Since you will not want to keep these pages as part of your own tutorial, it is strongly recommended to bookmark the demo website for easy reference.
