@@ -3,9 +3,9 @@ title: 'Tutorial Template'
 taxonomy:
     category:
         - docs
-body_classes: 'title-center title-h1h2'
 menu: Introduction
 subtitle: 'Instructions and Samples'
+isIntro: true
 intro:
     level: beginner
     updated: '2020-12-21'
