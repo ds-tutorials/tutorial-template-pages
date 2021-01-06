@@ -8,7 +8,7 @@ intro:
     level: beginner
 ---
 
-These are instructions for installing Grav using OU Create (or Reclaim Hosting). If you are using a different hosting service, you may want to check out the [Grav installation documentation](https://learn.getgrav.org/16/basics/installation).
+These are instructions for installing Grav using OU Create (or Reclaim Hosting). If you are using a different hosting service, you may want to check out the [Grav installation documentation](https://learn.getgrav.org/basics/installation).
 
 ## Install Grav on OU Create
 
@@ -39,7 +39,7 @@ The admin panel can be accessed by clicking the 2nd link provided on the OU Crea
 
 ## Non-OU Create Installs
 
-If you are using a different hosting service, make sure you have checked out the [Grav installation documentation](https://learn.getgrav.org/16/basics/installation).
+If you are using a different hosting service, make sure you have checked out the [Grav installation documentation](https://learn.getgrav.org/basics/installation).
 
 If your installation does not automatically come with the following plugins, you will want to add them:
 - Admin Panel
@@ -79,7 +79,7 @@ The tutorial theme inherits from the theme [learn2](https://github.com/getgrav/g
 
 #### Install the Tutorial Theme
 
-1. Download the Tutorial theme (zip file) from the [tutorial theme GitHub repository](https://github.com/TheoAcker12/tutorial-template).
+1. Download the Tutorial theme (zip file) from the [tutorial theme GitHub repository](https://github.com/ds-tutorials/tutorial-template).
 2. Upload the file using to your-site/user/themes using your file manager, then unzip/extract the theme.
 3. Go to **Themes** in the Grav admin panel and activate the Tutorial Template theme.
 4. Optional: Remove the zip file and the Quark theme from the user/themes folder.
@@ -92,7 +92,7 @@ Go to **Plugins** on the admin panel and click **Add** to add each of the follow
 	- This will allow you to rename any media files you upload directly from the admin panel.
 - Git Sync
 	- This will allow you to sync your pages with a git repository.
-	- **Note:** The configuration wizard will pop up once this is installed. You can cancel for now or jump ahead to the [plugin configuration](https://ds-tutorials.oucreate.com/tutorial-template-temp/setup/configuration#plugin-configuration). When navigating away from the page, click **Continue** at the unsaved changes prompt.
+	- **Note:** The configuration wizard will pop up once this is installed. You can cancel for now or jump ahead to the [plugin configuration](https://ds-tutorials.oucreate.com/tutorial-template/setup/configuration#plugin-configuration). When navigating away from the page, click **Continue** at the unsaved changes prompt.
 - Highlight
 	- This provides syntax highlighting for any code sections you include.
 - Shortcode Core

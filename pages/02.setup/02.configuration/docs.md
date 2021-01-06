@@ -59,7 +59,7 @@ If using Git Sync, you may want to provide a link and the name of the hosting se
 
 #### Custom Footer Content
 
-A folder called modules with a page called footer have been provided if you wish to include custom footer text. The footer page currently has no content, but anything placed in its content will be displayed in the footer on all pages. Neither the modules folder nor the footer page are routable, so they will not appear in the main navigation or the top/bottom page navigation.
+A folder called modules with a page called footer has been provided if you wish to include custom footer text. The footer page currently has no content, but any added content will be displayed in the footer on all pages. Neither the modules folder nor the footer page are routable, so they will not appear in the main navigation or the top/bottom page navigation.
 
 If you do not have the modules folder and footer page, you can set them up manually.
 
@@ -67,10 +67,14 @@ If you do not have the modules folder and footer page, you can set them up manua
 2. Under **Advanced** find "Visible" and disable it.
 3. Save and return to the **Pages** tab.
 4. Select **Add** (not **Add Page**).
-	1. Name the new page `folder`.
+	1. Name the new page `footer`.
 	2. Set Parent Page as `/modules`.
 	3. Set Visible to No.
 	4. Continue and save the page.
+
+### Other Custom Content
+
+The theme includes files to add your own custom CSS or JavaScript if you would like to. To find these files, first go to the theme folder - `user/themes/tutorial-template`. `custom.css` is in the CSS folder, and `custom.js` is in the JavaScript folder. These files will never be modified by the theme, so you can put whatever you like in them without worrying they will be overwritten if you need to update the theme.
 
 ## Plugin Configuration
 

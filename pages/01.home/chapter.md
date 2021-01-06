@@ -18,7 +18,7 @@ These pages will walk you through installation (if your initial website is not y
 
 Do not delete this page. Change the page title to the name of your tutorial and replace the contents with introductory information for learners. See the [tutorial structure section](https://ds-tutorials.oucreate.com/tutorial-template/structure) for recommendations about what to include on the first page.
 
-<h2 id="prerequisites">Prerequisites</h2>
+## Prerequisites
 
 1. A platform to host Grav, which the tutorial theme is built on
 2. The tutorial theme (linked to in the installation section)
