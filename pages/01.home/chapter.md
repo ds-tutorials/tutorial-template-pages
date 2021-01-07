@@ -24,3 +24,12 @@ Do not delete this page. Change the page title to the name of your tutorial and 
 2. The tutorial theme (linked to in the installation section)
 3. Basics of using Grav (included in these pages)
 4. Basics of using Markdown (included in these pages)
+
+## Theme Info
+
+This theme was developed by Theo Acker from [OU Libraries Digital Scholarship](https://libraries.ou.edu/content/digital-scholarship-ou-libraries). Lyssa Prince and Robb Carr from [AbleTech](https://www.okabletech.org/) provided extensive help in the initial design and reviewing for potential accessibility issues.
+
+If there are any issues in the theme itself or the default page content, please report them to the relevant GitHub page, or by emailing Theo at [theoacker@ou.edu](mailto:theoacker@ou.edu) or OU Libraries Digital Scholarship at [digitalscholarship@ou.edu](mailto:digitalscholarship@ou.edu). We are also always happy to hear any suggestions or requests. If you are finding the theme helpful, please let us know!
+
+- [Theme GitHub issues](https://github.com/ds-tutorials/tutorial-template/issues)
+- [Theme pages issues](https://github.com/ds-tutorials/tutorial-template-pages/issues)
