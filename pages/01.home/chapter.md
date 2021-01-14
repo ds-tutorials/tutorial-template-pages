@@ -27,7 +27,7 @@ Do not delete this page. Change the page title to the name of your tutorial and 
 
 ## Theme Info
 
-This theme was developed by Theo Acker from [OU Libraries Digital Scholarship](https://libraries.ou.edu/content/digital-scholarship-ou-libraries). Lyssa Prince and Robb Carr from [AbleTech](https://www.okabletech.org/) provided extensive help in the initial design and reviewing for potential accessibility issues.
+This theme was developed by Theo Acker from [OU Libraries Digital Scholarship](https://libraries.ou.edu/content/digital-scholarship-ou-libraries). Lyssa Prince and Robb Carr from [AbleTech](https://www.okabletech.org/) provided extensive help in finding and addressing potential accessibility issues.
 
 If there are any issues in the theme itself or the default page content, please report them to the relevant GitHub page, or by emailing Theo at [theoacker@ou.edu](mailto:theoacker@ou.edu) or OU Libraries Digital Scholarship at [digitalscholarship@ou.edu](mailto:digitalscholarship@ou.edu). We are also always happy to hear any suggestions or requests. If you are finding the theme helpful, please let us know!
 
