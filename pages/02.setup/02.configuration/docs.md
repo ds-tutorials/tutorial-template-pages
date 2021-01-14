@@ -24,9 +24,11 @@ A space has been provided for the link to a git repository if using Git Sync (st
 3. Provide a URL to link to your organization's website/homepage.
 4. Provide alternative text for the logo - generally this would be your institution's name. This is not necessary if using Logo (Text) instead of Logo.
 
+!!! The file `theme.css` in `user/themes/tutorial/css/` contains an option to add an outline to an added logo link when a user hovers over it (or when it receives focus). You can uncomment this and add it to `custom.css` if you want to try it out.
+
 ### Google Analytics
 
-This theme is set up to work with Google Analytics. If you are not planning to use Google Analytics, you can toggle this option off and ignore the rest of this section.
+This theme is set up to work with Google Analytics. If you are not planning to use Google Analytics, you can toggle this option off and ignore the rest of this section. If you are using Google Analytics, an opt out/opt back in button will be added to the footer of each page.
 
 1. Sign in or create a [Google Analytics account](https://www.google.com/analytics/web/#home).
 2. Select the **Admin** tab.
@@ -75,6 +77,8 @@ If you do not have the modules folder and footer page, you can set them up manua
 ### Other Custom Content
 
 The theme includes files to add your own custom CSS or JavaScript if you would like to. To find these files, first go to the theme folder - `user/themes/tutorial-template`. `custom.css` is in the CSS folder, and `custom.js` is in the JavaScript folder. These files will never be modified by the theme, so you can put whatever you like in them without worrying they will be overwritten if you need to update the theme.
+
+The file `theme.css` has a number of options you may want to copy into `custom.css` to modify. It is heavily commented to make it as easy as possible to understand what the code is doing, even if you are not familiar with CSS. Most of the options available are color choices.
 
 ## Plugin Configuration
 

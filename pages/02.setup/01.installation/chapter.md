@@ -79,7 +79,7 @@ The tutorial theme inherits from the theme [learn2](https://github.com/getgrav/g
 
 #### Install the Tutorial Theme
 
-1. Download the Tutorial theme (zip file) from the [tutorial theme GitHub repository](https://github.com/ds-tutorials/tutorial-template).
+1. Download the Tutorial theme (zip file) from the [tutorial theme GitHub repository](https://github.com/ds-tutorials/grav-theme-tutorial).
 2. Upload the file using to your-site/user/themes using your file manager, then unzip/extract the theme.
 3. Go to **Themes** in the Grav admin panel and activate the Tutorial Template theme.
 4. Optional: Remove the zip file and the Quark theme from the user/themes folder.

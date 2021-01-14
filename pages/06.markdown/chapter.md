@@ -10,6 +10,12 @@ intro:
 
 Markdown is a lightweight markup language. It is designed to allow easily typing plain text that can easily be converted into formatted HTML.
 
+If you are already familiar with Markdown, there are still a few sections worth checking out, as they are specific to Grav/this theme.
+
+- [Linking to a Specific Section](#linking-to-a-specific-section)
+- [Markdown Notices](#notices)
+- [Copying Code to Clipboard](#copying-code-to-clipboard)
+
 Two big rules to remember are about how Markdown deals with new lines and spacing. Whenever creating a new paragraph, list, heading, or other block of text, make two new lines (press enter/return twice) so that the blocks are clearly separated. Text separated with only one line may be treated as text separated with only a space.
 
 Markdown also collapses any excess spacing. In other words, if you separate two words with two or more spaces, they will still only be displayed with one space between them.

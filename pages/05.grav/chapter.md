@@ -3,6 +3,8 @@ title: Grav
 taxonomy:
     category:
         - docs
+intro:
+    level: beginner
 ---
 
 This will provide a brief overview of Grav that should be enough for working with the website. You can find additional information in the [official Grav documention](https://learn.getgrav.org/).
@@ -21,7 +23,7 @@ Regularly update the website as needed. To check for updates, click the **Check 
 
 ### Configuration Options
 
-At any time you can make changes to site, theme, or plugin configuration. Review the [configuration section](https://ds-tutorials.oucreate.com/tutorial-template/setup/configuration) before changing anything.
+At any time you can make changes to site, theme, or plugin configuration. Review the [configuration section](https://ds-tutorials.oucreate.com/grav-tutorial-demo/setup/configuration) before changing anything.
 
 ### Plugins
 
@@ -57,7 +59,7 @@ When you save your work, any changes will immediately be applied to the page in 
 
 When a page is saved for the first time, a folder and document will be created for the page. After that, you can add media by clicking on the box below the content editor. Hovering over an added image will provide an option to rename it at the bottom right. If you have a lot of images, you can reorder them by dragging and dropping.
 
-Information on including images in the page can be found in the [Markdown section](https://ds-tutorials.oucreate.com/tutorial-template/markdown).
+Information on including images in the page can be found in the [Markdown section](https://ds-tutorials.oucreate.com/grav-tutorial-demo/markdown).
 
 ### Extra Page Options
 

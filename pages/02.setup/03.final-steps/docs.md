@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-There are a few sets of files that still need to be added. These should be included in the [tutorial template setup repository](https://github.com/ds-tutorials/tutorial-template-setup) as blueprints.zip, admin.yaml, and pages.zip.
+There are a few sets of files that still need to be added. These should be included in the [tutorial template setup repository](https://github.com/ds-tutorials/grav-tutorial-setup) as blueprints.zip, admin.yaml, and pages.zip.
 
 1. Download the three specified files.
 2. Upload blueprints.zip to the user folder, unzip/extract it, and then delete the zip file.
