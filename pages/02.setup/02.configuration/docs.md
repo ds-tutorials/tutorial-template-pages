@@ -16,6 +16,8 @@ taxonomy:
 
 ## Theme Configuration
 
+This section will go over the various theme configuration options, though you will want to wait until finishing setup to set some of them.
+
 To access theme configuration, go to the **Themes** section and click on the **Tutorial** theme.
 
 A space has been provided for the link to a git repository if using Git Sync (strongly recommended). You will probably want to fill this out after setting up the plugin.
@@ -100,19 +102,9 @@ The file `theme.css` has a number of options you may want to copy into `custom.c
 
 #### Additional Repository Setup Instructions
 
-Since Git Sync was last updated (as of v.2.1.1), GitHub has changed the default branch for all new repositories from master to main. You will need to manually change this back to prevent issues with the plugin.
+Since Git Sync was last updated (as of v.2.1.1), GitHub has changed the default branch for all new repositories from master to main. You will need to manually change this back to prevent issues with the plugin. The easiest way to do this is to go the repository Settings > Branches and rename main to master.
 
-1. In your repository, click the branch dropdown with **main**.
-2. Type master and then select `Create branch: master from 'main'`.
-3. Go to repository Settings -> Branches.
-4. Change main to master under the default branch section and click **Update**.
-5. Confirm by clicking **I understand, update the default branch.**
-
-Optional: Delete the main branch
-
-1. Go back to the code section of the repository.
-2. Click on the branch dropdown and choose: View all branches.
-3. Click the trashcan to the right of the main branch.
+! Important: Do not skip this step or the plugin will not work.
 
 #### Use the Git Sync Setup Wizard
 
