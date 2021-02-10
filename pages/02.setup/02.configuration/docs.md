@@ -138,6 +138,12 @@ Optional: Delete the main branch
 
 ! Note: Every time you enter the Git Sync plugin configuration page, it will automatically fill out the **Git Password or Token** option with something else. If you are changing the settings at any time, make sure you have changed this back to the correct password/token before saving, or future syncs will fail. Any time you exit the page (even right after saving) you will need to continue without saving.
 
+#### Sync with git
+
+The plugin will add a button just above Dashboard in the side navigation of the admin panel. You can click this at any time to synchronize with your repository.
+
+If you have set the plugin up to synchronize on page save, you may occasionally receive a complicated error when trying to save after adding several images. In this case, try saving the page again and see if it syncs successfully.
+
 ### Markdown Notices
 
 1. Disable "Use built-in CSS"

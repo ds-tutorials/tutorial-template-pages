@@ -45,6 +45,7 @@ If your installation does not automatically come with the following plugins, you
 - Admin Panel
 - Email
 - Error
+- Flex Objects
 - Form
 - Login
 - Markdown Notices
@@ -54,35 +55,27 @@ These are all official Grav plugins.
 
 ## Basic Setup
 
-For these instructions, you will need to go to the admin panel for your site (Website URL + `/admin`). You will also need to access the file system for you hosting service.
+For these instructions, you will need to go to the admin panel for your site (Website URL + `/admin`).
 
-If using OU Create, the file system can be accessed by selecting File Manager from the Files section. Then navigate to either the domain/subdomain you installed the tutorial on, or go to the "public_html" folder (it may have a globe icon instead of a folder icon in the directory). Then select the folder/directory you set during installation.
-
-### Update Grav
+### Check for Updates
 
 The first thing to do, once you get to the site dashboard, is update Grav. You will want to do this periodically as part of your tutorial upkeep.
 
 1. Click the **Check for Updates** button on the top right.
-2. Click **Update Grav Now** on the purple bar that appears just below (assuming is an available update). This will update your version of Grav.
-3. Then click the **Update** button at the bottom right of the green Maintenance panel and click Continue when prompted. This will update any plugins or themes with available updates.
+2. If there is a new version of Grav, a purple bar will appear at the top of the page with an **Update Grav Now** button. Click this button and wait for the update to finish before proceeding.
+3. If any of your plugins or themes have updates, there will be an **Update** button available at the bottom right of the green Maintenance panel. Click this and click Continue if/when prompted. You may receive a notification that certain dependencies are required - clicking Next or Continue will install them automatically for you.
 4. You can click **Check for Updates** again to doublecheck that everything is 100% up to date.
 
 ### Add Themes
 
-The tutorial theme inherits from the theme [learn2](https://github.com/getgrav/grav-theme-learn2) and requires that theme to work. Thus, you will need to install both Learn2 and this theme.
-
-#### Install Learn2
-
-1. Select **Themes** from the admin panel navigation, and then choose **Add** (button at the top right).
-2. Look for the theme Learn2 and click **Install** and then **Continue**.
-3. Do not bother with any of the configuration settings, and do not activate the theme.
-
-#### Install the Tutorial Theme
-
-1. Download the Tutorial theme (zip file) from the [tutorial theme GitHub repository](https://github.com/ds-tutorials/grav-theme-tutorial).
-2. Upload the file using to your-site/user/themes using your file manager, then unzip/extract the theme.
-3. Go to **Themes** in the Grav admin panel and activate the Tutorial Template theme.
-4. Optional: Remove the zip file and the Quark theme from the user/themes folder.
+1. Select **Themes** from the admin panel navigation.
+2. Choose **Add** (button at the top right).
+3. Look for the theme Tutorial and click **Install**.
+4. You should receive a notification that the theme requires learn2 as a dependency. This is because Tutorial inherits from the Learn2 theme and requires it to work. Click **Continue** and Grav will install both themes.
+! Note: As of February 10, 2021, Learn2 has an issue where it may not show up in you Admin Panel themes. Do not worry if that is the case: As long as Learn2 has been installed, Tutorial should work.
+5. Do not bother with any of the configuration settings yet. Click **Back to Themes**.
+6. Activate the Tutorial theme.
+7. Optional: Uninstall the Quark theme. (Click on the theme to see configuration options and an uninstall button).
 
 ### Add Plugins
 
