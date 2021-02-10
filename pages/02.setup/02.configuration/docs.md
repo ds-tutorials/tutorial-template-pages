@@ -8,14 +8,17 @@ taxonomy:
 ## Site Configuration
 
 1. Go to the **Configuration** section of the admin panel.
-2. Double check that the site title is correct.
-3. Double check the author name and email.
-4. Edit the metadata description to describe the site.
-5. Save.
+2. Click on the **Site** tab.
+3. Double check that the site title is correct.
+4. Double check the author name and email.
+5. Edit the metadata description to describe the site.
+6. Save.
 
 ## Theme Configuration
 
-A space has been provided for the link to a git repository if using Git Sync (strongly recommended).
+To access theme configuration, go to the **Themes** section and click on the **Tutorial** theme.
+
+A space has been provided for the link to a git repository if using Git Sync (strongly recommended). You will probably want to fill this out after setting up the plugin.
 
 ### Logo
 
@@ -28,7 +31,7 @@ A space has been provided for the link to a git repository if using Git Sync (st
 
 ### Google Analytics
 
-This theme is set up to work with Google Analytics. If you are not planning to use Google Analytics, you can toggle this option off and ignore the rest of this section. If you are using Google Analytics, an opt out/opt back in button will be added to the footer of each page.
+This theme is set up to work with Google Analytics. If you are not planning to use Google Analytics, you can toggle this option off and ignore the rest of this section. If you are using Google Analytics, an opt out/opt back in button will be added to the footer of each page. You can always come back and change this later.
 
 1. Sign in or create a [Google Analytics account](https://www.google.com/analytics/web/#home).
 2. Select the **Admin** tab.
