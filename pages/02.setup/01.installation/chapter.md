@@ -83,6 +83,8 @@ Go to **Plugins** on the admin panel and click **Add** to add each of the follow
 
 - Admin Addon Media Rename
 	- This will allow you to rename any media files you upload directly from the admin panel.
+- Custom CSS
+	- This will allow you to modify the website styles without having your changes overwritten by updates.
 - Git Sync
 	- This will allow you to sync your pages with a git repository.
 	- **Note:** The configuration wizard will pop up once this is installed. You can cancel for now or jump ahead to the [plugin configuration](https://ds-tutorials.oucreate.com/tutorial-template/setup/configuration#plugin-configuration). When navigating away from the page, click **Continue** at the unsaved changes prompt.
