@@ -79,13 +79,13 @@ If you do not have the modules folder and footer page, you can set them up manua
 	3. Set Visible to No.
 	4. Continue and save the page.
 
-### Other Custom Content
-
-The theme includes files to add your own custom CSS or JavaScript if you would like to. To find these files, first go to the theme folder - `user/themes/tutorial-template`. `custom.css` is in the CSS folder, and `custom.js` is in the JavaScript folder. These files will never be modified by the theme, so you can put whatever you like in them without worrying they will be overwritten if you need to update the theme.
-
-The file `theme.css` has a number of options you may want to copy into `custom.css` to modify. It is heavily commented to make it as easy as possible to understand what the code is doing, even if you are not familiar with CSS. Most of the options available are color choices.
-
 ## Plugin Configuration
+
+### Custom CSS
+
+To prevent overwriting your changes, the theme does not include a file for custom CSS. Instead, you can add code using this plugin. The theme file `theme.css` has a number of options that you may want to copy over to modify. It is heavily commented to make it as easy as possible to understand what the code is doing, even if you are not familiar with CSS. Most of the options in this file are color choices.
+
+If you are modifying colors, please remember to check for color contrast! WebAIM provides an excellent [color contrast checker](https://webaim.org/resources/contrastchecker/) that I recommend using.
 
 ### Git Sync
 
