@@ -87,7 +87,7 @@ Go to **Plugins** on the admin panel and click **Add** to add each of the follow
 	- This will allow you to modify the website styles without having your changes overwritten by updates.
 - Git Sync
 	- This will allow you to sync your pages with a git repository.
-	- **Note:** The configuration wizard will pop up once this is installed. You can cancel for now or jump ahead to the [plugin configuration](https://ds-tutorials.oucreate.com/tutorial-template/setup/configuration#plugin-configuration). When navigating away from the page, click **Continue** at the unsaved changes prompt.
+	- **Note:** The configuration wizard will pop up once this is installed. You can cancel for now or jump ahead to the [plugin configuration](https://ds-tutorials.oucreate.com/grav-tutorial-demo/setup/configuration#plugin-configuration). When navigating away from the page, click **Continue** at the unsaved changes prompt.
 - Highlight
 	- This provides syntax highlighting for any code sections you include.
 - Shortcode Core
